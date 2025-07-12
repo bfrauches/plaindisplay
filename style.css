@@ -97,7 +97,9 @@ button a {
 
 .container { 
   display: flex;
-  gap: 10px;
+  margin-top: 20px;
+  gap: 15px;
+  justify-content: center;
 }
 
 .card { 
@@ -146,4 +148,10 @@ button a {
   text-align: center;
   padding: 80px;
   margin: 0%;
+}
+
+i {
+  font-size: 40px;
+  color: black;
+  margin-bottom: 10px;
 }
